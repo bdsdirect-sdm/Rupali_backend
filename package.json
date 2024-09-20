@@ -1,0 +1,19 @@
+{
+  "name": "assessment2",
+  "version": "1.0.0",
+  "description": "\"assessment 2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupali",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sequelize": "^4.28.20",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.6",
+    "sequelize": "^6.37.3"
+  }
+}
